@@ -5,7 +5,6 @@
   "homepage": "https://surge.sh",
   "author": "Kenneth Ormandy <kenneth@chloi.io> (http://kennethormandy.com)",
   "license": "Copyright © 2015 Chloi Inc.",
-  "main": "dist/favicon.ico",
   "private": true,
   "repository": "git@github.com:chloi/surge-favicon.git",
   "keywords": [
@@ -14,6 +13,10 @@
     "favicon"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified…yet!\" && exit 1"
+    "test": "opn favicon.iconsproj",
+    "start": "npm test"
+  },
+  "devDependencies": {
+    "opn": "^1.0.1"
   }
 }
