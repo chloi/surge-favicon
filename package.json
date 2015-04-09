@@ -5,7 +5,6 @@
   "homepage": "https://surge.sh",
   "author": "Kenneth Ormandy <kenneth@chloi.io> (http://kennethormandy.com)",
   "license": "Copyright © 2015 Chloi Inc.",
-  "private": true,
   "repository": "git@github.com:chloi/surge-favicon.git",
   "keywords": [
     "surge",
