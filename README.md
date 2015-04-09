@@ -1,4 +1,4 @@
-# [![](dist/surge-48x48.png)](https://surge.sh) Surge Favicon
+# [![](favicon-48x48.png)](https://surge.sh) Surge Favicon
 
 The [Surge](https://surge.sh) favicon. For now.
 
