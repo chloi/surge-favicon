@@ -1,0 +1,19 @@
+{
+  "name": "surge-favicon",
+  "version": "0.0.1",
+  "description": "The Surge favicon.",
+  "homepage": "https://surge.sh",
+  "author": "Kenneth Ormandy <kenneth@chloi.io> (http://kennethormandy.com)",
+  "license": "Copyright © 2015 Chloi Inc.",
+  "main": "dist/favicon.ico",
+  "private": true,
+  "repository": "git@github.com:chloi/surge-favicon.git",
+  "keywords": [
+    "surge",
+    "surge.sh",
+    "favicon"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet!\" && exit 1"
+  }
+}
